@@ -1,9 +1,13 @@
 # froggo
 
-it is me
+hello friends
 
 *ribbit*, *ribbit*
 
-i am here
+it is me
 
 *hop*, *hop*
+
+i am here
+
+***STOMP***

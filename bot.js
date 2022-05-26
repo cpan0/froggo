@@ -8,9 +8,8 @@ app.listen(port, () =>
   console.log(`Your app is listening a http://localhost:${port}`)
 );
 
-
 /// 
-
+// hello :^)
 
 const { Client, Intents, Guild, MessageAttachment } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
